@@ -1,5 +1,7 @@
 ---
 title: This is my first post
+layout: post
+date: 2019-03-11
 ---
 
 # Welcome
