@@ -1,6 +1,6 @@
 ---
 title: About
-categories: [about]
+permalink: /about/
 ---
 
 Hi, for the moment nothing here.
