@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: My Minimal Static Site
 email: yann.lopik@gmail.com
+futur: true
 plugins:
   - jekyll-sitemap
