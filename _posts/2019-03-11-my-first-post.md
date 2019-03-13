@@ -1,6 +1,5 @@
 ---
-title:  This is my first post
-layout: post
+title: This is my first post
 ---
 
 # Welcome
