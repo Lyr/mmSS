@@ -5,3 +5,6 @@ List of scaper project from github :
 * [command line tool for PS4](https://github.com/lucasepe/go-ps4)
 
 * [newspaper scaper](https://github.com/codelucas/newspaper)
+
+An awesome list about scaper :
+https://github.com/BruceDone/awesome-crawler#python
